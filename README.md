@@ -14,7 +14,7 @@ The **Delete Posts by Date** plugin for WordPress allows administrators to easil
    - Clone the repository or download the plugin as a ZIP file.
 
    ```bash
-   git clone https://github.com/yourusername/delete-posts-by-date.git
+   git clone https://github.com/Adarshbiju797/Delete-Posts-By-Date.git
 
 2. **Upload to WordPress:**
    - Upload the plugin folder (delete-posts-by-date) to the /wp-content/plugins/ directory of your WordPress installation.
