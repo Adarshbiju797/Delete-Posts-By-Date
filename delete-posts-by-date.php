@@ -4,6 +4,8 @@ Plugin Name: Delete Posts by Date
 Description: A plugin to delete posts between specific dates.
 Version: 1.0
 Author: Adarsh 
+License: GPLv2 
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 */
 
 if (!defined('ABSPATH')) {
